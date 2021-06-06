@@ -1,2 +1,2 @@
 # mcpkg
-Minecraft Modpack Packager
+Minecraft Modpack Packager & Assembler.
